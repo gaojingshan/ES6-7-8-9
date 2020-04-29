@@ -17,5 +17,5 @@ console.log(a); */
 function fun({a, b}) {
   return a + b;
 }
-console.log(fun({a: 10, b: 30}));
+console.log(fun({a: 10, b: 20}));
 
